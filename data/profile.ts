@@ -13,27 +13,25 @@ export const profile = {
   roles: ["Desarrollador Web", "Frontend", "Diseño de Interfaces"],
   tagline:
     "Construyo interfaces web rápidas, claras y con personalidad. Me gusta convertir ideas en productos que la gente disfruta usar.",
-  // Pon tu foto en /public/images/ y cambia esta ruta (ej. "/images/foto.jpg")
   photo: "/images/foto.jpg",
   cv: "/cv.pdf",
-  email: "tu-correo@ejemplo.com",
-  phone: "+57 300 000 0000",
+  email: "benavidesandres217@gmail.com",
+  phone: "+57 302 650 8006",
   location: "Colombia",
   about: [
-    "Soy estudiante de Ingeniería de Sistemas y me apasiona el desarrollo frontend: pasar de un diseño a una página que funciona, se ve bien y responde en cualquier pantalla.",
+    "Estudio Ingeniería de Sistemas en la Universidad Cooperativa de Colombia desde 2024, y desde ese mismo año desarrollo páginas web: paso de una idea o un diseño a un sitio que funciona, se ve bien y responde en cualquier pantalla.",
     "Disfruto aprender tecnologías nuevas, trabajar en equipo y cuidar los detalles que hacen que una interfaz se sienta bien.",
   ],
   quickFacts: [
     { label: "Ubicación", value: "Colombia" },
-    { label: "Semestre", value: "—" },
+    { label: "Universidad", value: "U. Cooperativa de Colombia" },
     { label: "Intereses", value: "UI, web, videojuegos" },
     { label: "Idiomas", value: "Español, Inglés" },
   ],
   values: ["Enfoque", "Disciplina", "Constancia"],
   socials: [
     { label: "GitHub", href: "https://github.com/benavidesandres", icon: "github" },
-    { label: "LinkedIn", href: "https://linkedin.com/in/tu-usuario", icon: "linkedin" },
-    { label: "Instagram", href: "https://instagram.com/tu-usuario", icon: "instagram" },
-    { label: "WhatsApp", href: "https://wa.me/573000000000", icon: "whatsapp" },
+    { label: "WhatsApp", href: "https://wa.me/573026508006", icon: "whatsapp" },
+    { label: "Correo", href: "mailto:benavidesandres217@gmail.com", icon: "mail" },
   ] satisfies Social[],
 };
