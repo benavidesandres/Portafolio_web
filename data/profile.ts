@@ -14,7 +14,7 @@ export const profile = {
   tagline:
     "Construyo interfaces web rápidas, claras y con personalidad. Me gusta convertir ideas en productos que la gente disfruta usar.",
   photo: "/images/foto.jpg",
-  cv: "/cv.pdf",
+  cv: "/CV_Andres_Felipe_Benavides_Bolanos.pdf",
   email: "benavidesandres217@gmail.com",
   phone: "+57 302 650 8006",
   location: "Colombia",
