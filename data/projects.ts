@@ -54,4 +54,24 @@ export const projects: Project[] = [
     emoji: "📹",
     gradient: "from-[#ffb547] to-[#c8f53a]",
   },
+  {
+    title: "Focus",
+    category: "App Android",
+    description:
+      "Escoges las apps que te distraen y, mientras dura la sesión de enfoque, el celular no te deja abrirlas. Se conecta con el reloj para controlar la sesión desde la muñeca.",
+    tags: ["Kotlin", "Jetpack Compose", "Hilt", "Wearable Data Layer"],
+    github: "https://github.com/benavidesandres/Focus_Cel",
+    emoji: "📵",
+    gradient: "from-[#3db4ff] to-[#7b3cf5]",
+  },
+  {
+    title: "Focus Watch",
+    category: "App Wear OS",
+    description:
+      "Temporizador de enfoque para smartwatch que avisa solo con vibraciones y sigue contando con la pantalla apagada. Si llevas mucho rato quieto, te sugiere una pausa usando el acelerómetro.",
+    tags: ["Kotlin", "Compose for Wear OS", "Room", "Hilt"],
+    github: "https://github.com/benavidesandres/Focus_B",
+    emoji: "⌚",
+    gradient: "from-[#2dd4bf] to-[#3db4ff]",
+  },
 ];
