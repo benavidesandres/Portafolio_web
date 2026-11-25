@@ -8,7 +8,6 @@ export type Testimonial = {
   color: string;
 };
 
-// ✏️ Testimonios de EJEMPLO para ver la estructura. Reemplázalos por reales antes de publicar.
 export const testimonials: Testimonial[] = [
   {
     name: "Valentina Rodríguez",
