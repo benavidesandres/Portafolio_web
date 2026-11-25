@@ -98,6 +98,8 @@ export const techGroups: TechGroup[] = [
       { name: "Tailwind", color: "#38bdf8", usedIn: "este portafolio" },
       { name: "React Native", color: "#61dafb", usedIn: "Lens" },
       { name: "Expo", color: "#ffffff", usedIn: "Lens" },
+      { name: "Jetpack Compose", color: "#4285f4", usedIn: "Focus y Focus Watch" },
+      { name: "Wear OS", color: "#3ddc84", usedIn: "Focus Watch" },
     ],
   },
   {
@@ -110,6 +112,7 @@ export const techGroups: TechGroup[] = [
       { name: "Hono", color: "#ff5b11", usedIn: "el servidor de Lens" },
       { name: "Java", color: "#f89820", usedIn: "StudioFlow" },
       { name: "Spring Boot", color: "#6db33f", usedIn: "StudioFlow" },
+      { name: "Kotlin", color: "#a97bff", usedIn: "Focus y Focus Watch" },
       { name: "JWT", color: "#d63aff", usedIn: "StudioFlow y SkillVibes" },
       { name: "Zod", color: "#3e67b1", usedIn: "Lens" },
     ],
@@ -122,6 +125,7 @@ export const techGroups: TechGroup[] = [
       { name: "PostgreSQL", color: "#4f8fd1", usedIn: "StudioFlow y SkillVibes" },
       { name: "Supabase", color: "#3ecf8e", usedIn: "StudioFlow" },
       { name: "TypeORM", color: "#fe0803", usedIn: "SkillVibes" },
+      { name: "Room", color: "#3ddc84", usedIn: "el historial de Focus Watch" },
       { name: "Docker", color: "#2496ed", usedIn: "levantar las bases de datos" },
     ],
   },
@@ -149,6 +153,6 @@ export const techGroups: TechGroup[] = [
 ];
 
 // Las que salen como etiquetas en "Sobre mí".
-export const aboutTags = ["TypeScript", "React Native", "NestJS", "Spring Boot", "PostgreSQL", "Unity", "Next.js"];
+export const aboutTags = ["TypeScript", "React Native", "NestJS", "Spring Boot", "Kotlin", "PostgreSQL", "Unity"];
 
 export const softSkills = ["Trabajo en equipo", "Comunicación", "Resolución de problemas", "Aprendizaje rápido", "Creatividad"];
