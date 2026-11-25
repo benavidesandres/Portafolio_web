@@ -47,34 +47,20 @@ export type ExperienceItem = {
 export const academic: ExperienceItem[] = [
   {
     title: "Ingeniería de Sistemas",
-    place: "Universidad",
-    start: "2022",
+    place: "Universidad Cooperativa de Colombia",
+    start: "2024",
     end: "Hoy",
-    description: "Formación en desarrollo de software, bases de datos y diseño de interfaces.",
-  },
-  {
-    title: "Curso de Diseño UI",
-    place: "Plataforma en línea",
-    start: "2021",
-    end: "2021",
-    description: "Fundamentos de diseño visual, tipografía, color y prototipado en Figma.",
+    description: "Desarrollo de software, bases de datos, arquitectura de aplicaciones y diseño de interfaces.",
   },
 ];
 
 export const work: ExperienceItem[] = [
   {
-    title: "Practicante Frontend",
-    place: "Empresa Tech S.A.S.",
+    title: "Desarrollador web",
+    place: "Proyectos independientes",
     start: "2024",
     end: "Hoy",
-    description: "Desarrollo de componentes en React y mejoras de rendimiento en el sitio principal.",
-  },
-  {
-    title: "Desarrollador freelance",
-    place: "Sitios web para emprendedores",
-    start: "2023",
-    end: "2024",
-    description: "Diseño y publicación de páginas para negocios locales con Next.js y Vercel.",
+    description: "Diseño y desarrollo de páginas web a la medida: desde la idea y el diseño hasta la publicación en línea.",
   },
 ];
 
